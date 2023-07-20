@@ -10,7 +10,6 @@ pacman::p_load(
   # leaflet,
   # plotKML,
   kableExtra,
-  flextable,
   plotKML,
   # httr,
   # RPostgres,
