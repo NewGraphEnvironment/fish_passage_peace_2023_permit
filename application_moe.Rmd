@@ -74,7 +74,11 @@ This permit application can also be viewed online [at this link](`r knitr::asis_
 
 <br>
 
-This work is a collaboration of many groups and an initiative of the Society for Ecosystem Restoration Northern BC. Funding for the project is through the Fish and Wildlife Compensation Program and the Provincial Fish Passage Technical Working Group.  Al Irvine, R.P.Bio from New Graph Environment Ltd. is leading the fieldwork with field and office collaboration with teams from McLeod Lake Indian Band.
+This work is a multi-year collaboration of many groups and an initiative of the Society for Ecosystem Restoration Northern BC. Funding for the project is through the Fish and Wildlife Compensation Program and the Provincial Fish Passage Technical Working Group.  Al Irvine, R.P.Bio from New Graph Environment Ltd. is leading the fieldwork with field and office collaboration with teams from McLeod Lake Indian Band. Past reports are below:
+
+- https://newgraphenvironment.github.io/Parsnip_Fish_Passage/
+- https://newgraphenvironment.github.io/fish_passage_parsnip_2021_reporting/
+- https://newgraphenvironment.github.io/fish_passage_peace_2022_reporting/
 
 <br>
 
@@ -90,7 +94,7 @@ Sampling methodologies will be dependent on the site, fish species suspected, ty
 
 <br>
 
-As part of this permit application we are proposing tagging.  Our study plan is (when time allows and PIT tagging is expected to increase our state of knowledge about the subject system) to electrofish small sites both upstream and downstream of priority culvert "barrier" sites and insert biomark APT12 PIT tags into the body cavity of all fish captured over 60mm.  Fish location (UTM), length and weight will also be collected.  In addition to providing information on abundance upstream and downstream of potential culvert restoration sites, the study will also provide baseline information for monitoring programs to document fish movement, growth and survival at these sites over multi-year timeframes (ie. to evaluate if 1. fish are moving into restored areas, 2. through sites where stream crossing structures (culverts) likely causing connectivity issues before any remediation is conducted and to 3.evaluate if productivity of the systems are increasing following bridge installation and/or if fish are moving upstream/downstream of where replaced/removed structures are located).  As we wish to tag all fish over 60mm in each site sampled (up to 10 sites) we would like to apply for a permit allowing a maximum of 450fish with a maximum of 150 fish/stream.  Although we are requesting a maximum of 150 fish/stream, we have listed 150fish of each species per stream because we will not know the species composition of the sites until the sampling occurs.
+As part of this permit application we are proposing tagging.  Our study plan is (when time allows and PIT tagging is expected to increase our state of knowledge about the subject system) to electrofish small sites both upstream and downstream of priority culvert "barrier" sites and insert biomark APT12 PIT tags into the body cavity of all fish captured over 60mm.  Fish location (UTM), length and weight will also be collected.  In addition to providing information on abundance upstream and downstream of potential culvert restoration sites, the study will also provide baseline information for monitoring programs to document fish movement, growth and survival at these sites over multi-year timeframes (ie. to evaluate if 1. fish are moving into restored areas, 2. through sites where stream crossing structures (culverts) likely causing connectivity issues before any remediation is conducted and to 3.evaluate if productivity of the systems are increasing following bridge installation and/or if fish are moving upstream/downstream of where replaced/removed structures are located).  As we wish to tag all fish over 60mm in each site sampled we would like to apply for a permit allowing a maximum of 450fish with a maximum of 150 fish/stream.  Although we are requesting a maximum of 150 fish/stream, we have listed 150fish of each species per stream because we will not know the species composition of the sites until the sampling occurs.
 
 
 <br>
@@ -355,7 +359,6 @@ mymap <- ggmap::ggmap(mybasemap) +
 mymap
 ```
 
-Figure 1. Location of potential sample sites.
 
 `r if(gitbook_on){knitr::asis_output("<br>")} else knitr::asis_output("<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>")`
 
